@@ -1,8 +1,8 @@
 # Load-on-scroll
 Ссылка: https://alexaltrex.github.io/Load-on-scroll
 
-<img src="src/assets/img/01.jpg" height="200">
-<img src="src/assets/img/02.jpg" height="200">
+<img src="src/assets/img/01.jpg" height="300">
+<img src="src/assets/img/02.jpg" height="300">
 
 ## Описание
 Подгрузка данных с сервера при прокрутке вертикального списка до конца.
